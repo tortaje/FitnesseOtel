@@ -4,7 +4,7 @@
 
   <groupId>io.github.tortaje</groupId>
   <artifactId>fitnesse-otel</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>fitnesse-otel</name>
   <description>Lightweight OpenTelemetry foundation for FitNesse fixtures (OTLP HTTP/protobuf).</description>
@@ -30,7 +30,7 @@
     <connection>scm:git:https://github.com/tortaje/FitnesseOtel.git</connection>
     <developerConnection>scm:git:https://github.com/tortaje/FitnesseOtel.git</developerConnection>
     <url>https://github.com/tortaje/FitnesseOtel</url>
-    <tag>v1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
